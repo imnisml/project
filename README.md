@@ -2,7 +2,7 @@
 
 by **Noor Iman Ismail** (imnisml)
 
-This project is to analyze the growth of supermarket with multiple branches in the most populated cities. Using Pandas in Python library for exploratory data analysis (EDA), the data are able to be investigated, analyzed, and cleaned accordingly. 
+This project is to analyze the growth of supermarket with multiple branches in the most populated cities at Myanmar. Using Pandas in Python library for exploratory data analysis (EDA), the data are able to be investigated, analyzed, and cleaned accordingly. 
 
 
 The objectives of this project are to:
